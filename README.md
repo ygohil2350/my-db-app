@@ -2,7 +2,10 @@
 
 **DB Architect** is a visual database management tool that allows users to design schemas, manage data, and visualize SQL joins instantly. It runs on a modern full-stack architecture using **React (Vite)**, **FastAPI (Python)**, and **PostgreSQL**, fully orchestrated with **Docker Compose**.
 
----
+## Preview App
+
+![Frontend Preview](https://drive.google.com/file/d/1NxnDkWkqn1IJWuNKk1hz5L6PvJ-sk8QD/view?usp=drive_link)
+![Backend Preview](https://drive.google.com/file/d/1l-hEVjsMjVTNoL0woo_p8yKTNeCoxtpG/view?usp=drive_link)
 
 ## 🚀 Features
 
@@ -71,15 +74,15 @@ The easiest way to run the app is using Docker Compose. This spins up the databa
 
 **Steps:**
 
-1.  **Clone/Download** the repository.
-2.  Open your terminal in the root folder (`my-db-app`).
-3.  Run the build command:
-    ```bash
-    docker compose up --build
-    ```
-4.  **Access the App:**
-    - **Frontend:** [http://localhost:5173](http://localhost:5173)
-    - **Backend Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
+1. **Clone/Download** the repository.
+2. Open your terminal in the root folder (`my-db-app`).
+3. Run the build command:
+   ```bash
+   docker compose up --build
+   ```
+4. **Access the App:**
+   - **Frontend:** [http://localhost:5173](http://localhost:5173)
+   - **Backend Docs:** [http://localhost:8000/docs](http://localhost:8000/docs)
 
 _Note: Both Frontend and Backend are configured with Docker volumes, so changes to your code will hot-reload instantly._
 

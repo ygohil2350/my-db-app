@@ -1,0 +1,66 @@
+# --- OS Specific ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- IDE / Editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# --- Python (Backend) ---
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+
+# Virtual Environments
+backend/venv/
+backend/.venv/
+backend/env/
+backend/ENV/
+
+# Distribution / Packaging
+backend/build/
+backend/dist/
+backend/*.egg-info/
+
+# Logs
+*.log
+
+# --- Node.js (Frontend) ---
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/coverage/
+
+# Logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# --- Environment Variables (Critical) ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# --- Docker ---
+# Ignore docker-compose overrides used for local config
+docker-compose.override.yml
+
+# --- Database ---
+# If you ever decide to map the postgres volume to a local folder
+postgres_data/
+pgdata/
+db_data/

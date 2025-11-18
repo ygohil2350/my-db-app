@@ -4,8 +4,8 @@
 
 ## Preview App
 
-![Frontend Preview](https://drive.google.com/file/d/1NxnDkWkqn1IJWuNKk1hz5L6PvJ-sk8QD/view?usp=drive_link)
-![Backend Preview](https://drive.google.com/file/d/1l-hEVjsMjVTNoL0woo_p8yKTNeCoxtpG/view?usp=drive_link)
+![Frontend Preview](https://drive.google.com/file/d/1NxnDkWkqn1IJWuNKk1hz5L6PvJ-sk8QD/view?usp=sharing)
+![Backend Preview](https://drive.google.com/file/d/1l-hEVjsMjVTNoL0woo_p8yKTNeCoxtpG/view?usp=sharing)
 
 ## 🚀 Features
 
